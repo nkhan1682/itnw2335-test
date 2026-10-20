@@ -1,0 +1,12 @@
+Default Tag Table: HMI tags use M2.0 M2.1
+
+In second rung of Block Code
+HMI Start needs to be System On
+
+Motor M3 should be M2 and Motor M2 in the last output would be M3. the third timer is 10s and not 5s
+
+In HMI Screen: Start Button's Press Event is linked to Stop.
+
+Click on the background Screen. Select a new event SetBit and link it to HMI Stop
+
+
